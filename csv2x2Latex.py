@@ -1,6 +1,5 @@
 # desenvolvido por rafael ferreira
 # email:rsferreira@inf.ufpel.edu.br
-# densenvolvido durante o doutorado da federal de pelotas
 # Ano:2024
 
 
