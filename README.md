@@ -2,6 +2,7 @@
 
 ## Descrição
 
+
 Este projeto inclui scripts Python para processamento de dados armazenados em arquivos CSV. Aqui estão algumas informações importantes sobre como os arquivos CSV devem ser organizados e manipulados para garantir o funcionamento correto dos scripts.
 
 ## Organização dos Arquivos
